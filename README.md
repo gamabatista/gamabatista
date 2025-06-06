@@ -7,9 +7,9 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-              I'm interested in:
-               - scientific computing
-               - software engineering
-               - synthetic biology
-               - programming languages
-               - computing education
+                                I'm interested in:
+                             - scientific computing
+                             - software engineering
+                             - synthetic biology
+                             - programming languages
+                             - computing education
