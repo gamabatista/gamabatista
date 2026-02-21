@@ -12,4 +12,5 @@
     - scientific computing
     - software engineering
     - programming languages
-    - computing education                       
+    - computing education  
+    - electrical engineering
